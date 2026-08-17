@@ -1,9 +1,9 @@
 {
   "project": "freenove_dea_hue_hub",
   "schema": 1,
-  "sha256": "73f661f87e9f887b83736ba1dfabb73398d32cb5f998238f0e6010bdca4efe5a",
-  "signature": "MEUCIGW0sRMelz83LTjluXC+6LGcr9B2ajtPqMJrB7CgkMIAAiEAkxthx3WvH0I5KKFjEW/7OZQ7gLF/RQWtCRBeH8BynQQ=",
-  "size": 2281808,
-  "url": "https://github.com/Trendo84/dea-homehub-ota/releases/download/v2.1.12/freenove_dea_hue_hub.bin",
-  "version": "2.1.12"
+  "sha256": "c25edbc917f897eb46436504337ebc24e2b8349c40b30c2fb5f94b353e5152b7",
+  "signature": "MEYCIQDi0+heEecXbM5hYrqqkuu4ct6Lo81EL+gdTsZg3BKG/gIhAMW867VRE2l6wRfrIPvpzLZMfBFCNJ/R7QX+NnyeNaJM",
+  "size": 2282112,
+  "url": "https://github.com/Trendo84/dea-homehub-ota/releases/download/v2.1.13/freenove_dea_hue_hub.bin",
+  "version": "2.1.13"
 }
